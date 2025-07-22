@@ -64,6 +64,18 @@ I’m a third-year Computer Engineering student with hands-on experience in full
 
 ---
 
+## 🔥 Contribution & Commit Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Michh8&theme=radical" alt="GitHub Streak" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Michh8&label=Total+Commits+Tracker&color=orange&style=flat-square" alt="commit badge"/>
+</p>
+
+---
+
 ## 📚 Courses & Education
 
 - 🎓 **BSc in Computer Engineering** – UCA (62% completed)
