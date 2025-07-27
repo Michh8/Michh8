@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Michelle Stefania Hernández Flamenco</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/91/81/55/918155387ad114a903cba1a13506e3be.gif" width="350"/>
+  <img src="https://i.pinimg.com/originals/91/81/55/918155387ad114a903cba1a13506e3be.gif" width="400"/>
 </p>
 
 <p align="center">
