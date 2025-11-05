@@ -7,7 +7,7 @@
 <p align="center">
   💻 Passionate Fullstack Developer • 🎨 Digital Illustrator • 📊 Future Data Scientist  
   <br/>
-  🎓 Computer Engineering student @ UCA (62% completed)
+  🎓 Computer Engineering student @ UCA
 </p>
 
 ---
